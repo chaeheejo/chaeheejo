@@ -1,6 +1,6 @@
 ### 📫 contact
 <p>
-  <a href="mailto:60cogml@gmail.com" target="_blank"><img src="https://img.shields.io/badge/60cogml@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:chaehee627@gmail.com" target="_blank"><img src="https://img.shields.io/badge/chaehee627-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://blog.naver.com/60cogml" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 </p> 
 
