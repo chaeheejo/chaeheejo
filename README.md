@@ -36,3 +36,7 @@
 <br>
 
 ![chaehee's github status](https://github-readme-stats.vercel.app/api?username=chaeheejo&show_icons=true&theme=default)
+
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=60cogml)](https://solved.ac/60cogml/)
