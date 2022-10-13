@@ -1,12 +1,12 @@
-### 📫 contact
+### 📫 Contact
 <p>
-  <a href="mailto:chaehee627@gmail.com" target="_blank"><img src="https://img.shields.io/badge/chaehee627-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:60cogml@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://blog.naver.com/60cogml" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 </p> 
 
 <br>
 
-### 🤖 Languages and Platforms
+### 🤖 Tech stack
 <p>
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
@@ -34,6 +34,7 @@
 
 <br>
 
-<br>
+
+### 👩🏻‍💻 Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=60cogml)](https://solved.ac/60cogml/)
