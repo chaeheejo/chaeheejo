@@ -1,10 +1,14 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaeheejo&count_bg=%23020CA6&title_bg=%232F2F2F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<br/>
+
 ### 📫 Contact
 <p>
   <a href="mailto:60cogml@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://blog.naver.com/60cogml" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 </p> 
 
-<br>
+<br/>
 
 ### 🤖 Tech stack
 <p>
@@ -32,7 +36,7 @@
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </p>
 
-<br>
+<br/>
 
 
 ### 👩🏻‍💻 Algorithm
