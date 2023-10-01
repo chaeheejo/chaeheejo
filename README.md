@@ -34,3 +34,8 @@
  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
  <img src="https://img.shields.io/badge/Firebase-FF7139?style=flat-square&logo=Firebase&logoColor=white"/>
 </p>
+
+<br/>
+
+### 👩🏻‍💻 Algorithm Tier
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=60cogml)](https://solved.ac/60cogml/)
