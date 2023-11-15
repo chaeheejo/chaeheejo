@@ -1,6 +1,6 @@
 ### 🧐 Portfolio
 <p>                                                                                                   
-   <a href="https://www.notion.so/Chaehee-Jo-fe2a1a324d7c4054bec6abde82c503e7?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000?style=flat-square&logo=notion&logoColor=white"/></a> 👈🏻
+   <a href="https://chaeheejo.notion.site/Chaehee-Jo-fe2a1a324d7c4054bec6abde82c503e7?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000?style=flat-square&logo=notion&logoColor=white"/></a> 👈🏻
 </p>
 
 <br/>
