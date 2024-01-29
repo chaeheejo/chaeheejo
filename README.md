@@ -1,48 +1,16 @@
-### 🧐 Portfolio
-<p>                                                                                                   
-   <a href="https://chaeheejo.notion.site/Chaehee-Jo-fe2a1a324d7c4054bec6abde82c503e7?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000?style=flat-square&logo=notion&logoColor=white"/></a> 👈🏻
-</p>
+## Chaehee Jo 
+- 👋 Hi, I'm @chaeheejo
+- 🌱 I write blog posts on [https://blog.naver.com/60cogml](https://blog.naver.com/60cogml)
+- 👩🏻‍💻 My Baekjun(Algorithm) tier is [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=60cogml)](https://solved.ac/60cogml)
+- 📫 How to reach me : [60cogml@gmail.com](60cogml@gmail.com)
+- 📝 Here is my portfolio : [Notion](https://chaeheejo.notion.site/chaeheejo/Chaehee-Jo-fe2a1a324d7c4054bec6abde82c503e7)
 
 <br/>
 
-### 📫 Contact
-<p>
-  <a href="mailto:60cogml@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://blog.naver.com/60cogml" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-</p> 
-
-<br/>
-
-### ⚒️ Tech stack
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-</p>
-
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-</p>
-
-<p>
- <img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
- <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
- <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
- <img src="https://img.shields.io/badge/Firebase-FF7139?style=flat-square&logo=Firebase&logoColor=white"/>
-</p>
-
-<br/>
-
-### 👩🏻‍💻 Algorithm Tier
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=60cogml)](https://solved.ac/60cogml/)
+## Career
+- Soongsil Univ. Computer Science & Engineering (2019.03 - 2023.08)
+- Exchange Student Program in USA (2021.08 - 2022.01)
+- Startup Software Engineer Intern (2022.07 - 2022.08)
+- SSAFY 10th Embedded Track (2023.07 - 2023.12)
+- Samsung Electronics DS Software Engineer (2024.03 - )
