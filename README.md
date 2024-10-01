@@ -1,8 +1,6 @@
 ## Chaehee Jo 
 - 👋 Hi, I'm @chaeheejo
-- 🌱 I write blog posts on [tistory](https://chae2ee.tistory.com)
-- 👩🏻‍💻 My Baekjun(Algorithm) tier is [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=60cogml)](https://solved.ac/60cogml)
+- 🌱 I have been writing blog posts on [tistory](https://chae2ee.tistory.com), and until 2023, I was posting on [naver-blog](https://blog.naver.com/60cogml)
 - 📫 How to reach me : [60cogml@gmail.com](60cogml@gmail.com)
 - 📝 Here is my portfolio : [Notion](https://chaeheejo.notion.site/chaeheejo/Chaehee-Jo-fe2a1a324d7c4054bec6abde82c503e7)
 
